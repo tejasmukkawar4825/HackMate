@@ -201,7 +201,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sujal** - [Sujal1804](https://github.com/Sujal1804)
+**Tejas Mukkawar**
 
 ## 🙏 Acknowledgments
 
